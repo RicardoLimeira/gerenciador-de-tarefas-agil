@@ -62,3 +62,15 @@ Em andamento (adicionado ao Kanban).
 ```bash
 npm install
 
+
+## Checklist do Projeto
+
+- [x] Documentação clara com objetivo e instruções
+- [x] Código organizado e funcional
+- [x] Testes automatizados configurados
+- [x] Pipeline GitHub Actions rodando os testes
+- [x] Kanban atualizado com mudanças de escopo
+- [x] Histórico de commits organizado
+- [ ] Testar instruções do README em ambiente limpo
+- [ ] Verificar pipeline no GitHub Actions
+
